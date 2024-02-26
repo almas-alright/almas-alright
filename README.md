@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/fayzuralmas"><img src="https://api.daily.dev/devcards/v2/0cQh2iYcRC1iyoBZLhPy8.png?type=default&r=uz6" width="356" alt="fayzur almas's Dev Card"/></a>
+
 <!--
 **almas-alright/almas-alright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
