@@ -27,7 +27,6 @@
 
 #### Experience Highlights
 
-- **Betopia Limited / Bitopia Group** — Technical Lead / Software Architect (Oct 2025–Present)
 - **Techmonstar Bangladesh** — Technical Lead / Senior Software Engineer (Jan 2024–Mar 2025) — led an 8-person cross-functional team
 - **Groots Inc.** — Technical Lead / Senior Backend Engineer (Nov 2021–Dec 2023) — delivered the Estonian Government e-Residency platform, ~30% efficiency gains
 - **Mates Global, Australia** — Technical Lead / Senior Software Engineer (Dec 2020–Nov 2021)
