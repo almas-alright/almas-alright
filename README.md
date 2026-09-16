@@ -3,9 +3,9 @@
 
 14+ years delivering scalable SaaS, enterprise, marketplace, e-commerce, and government-grade platforms across Australia, Japan, the USA, and Bangladesh.
 
-- 🔭 Currently leading architecture for **Betopia.ai** — a hybrid marketplace (Fiverr-style gigs + Upwork-style bidding), covering buyer/seller/admin/finance/dispute/KYC/order/payment/review workflows
+- 🔭 Currently working on an confidencial project
 - 🏗️ Focused on system design, API-first architecture, technical roadmaps, and legacy modernization
-- 🤖 Exploring AI-assisted engineering workflows (Codex, Claude CLI) for developer productivity
+- 🤖 Exploring AI-assisted engineering workflows for developer productivity
 - 📫 Reach me at **kutsnalmas@gmail.com** or [LinkedIn](https://linkedin.com/in/fayzur-almas)
 
 <a href="https://app.daily.dev/fayzuralmas"><img src="https://api.daily.dev/devcards/v2/0cQh2iYcRC1iyoBZLhPy8.png?type=default&r=uz6" width="356" alt="fayzur almas's Dev Card"/></a>
